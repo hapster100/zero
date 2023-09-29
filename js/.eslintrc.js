@@ -111,7 +111,7 @@ module.exports = {
         'no-lone-blocks': 'error',
         'no-lonely-if': 'error',
         'no-loop-func': 'warn',
-        'no-magic-numbers': ['warn', { ignore: [1], ignoreArrayIndexes: true, ignoreDefaultValues: true }],
+        'no-magic-numbers': ['warn', { ignore: [-1, 0, 1], ignoreArrayIndexes: true, ignoreDefaultValues: true }],
         'no-mixed-operators': 'warn', // ???
         'no-multi-assign': 'warn',
         'no-multi-spaces': 'warn',
