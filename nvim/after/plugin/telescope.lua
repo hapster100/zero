@@ -1,0 +1,6 @@
+local bin = require("telescope.builtin")
+vim.keymap.set("n", "<leader>pf", bin.find_files, {})
+vim.keymap.set("n", "<C-p>", bin.git_files, {})
+vim.keymap.set("n", "<leader>ps", function()
+	bin.grep_string({ search = vim.fn.input("Grep > ") })
+end)
