@@ -32,4 +32,5 @@
 
 ## Font
 
-[FiraCode](https://github.com/tonsky/FiraCode)
+1) Install fonts from [FiraCode](https://github.com/tonsky/FiraCode)
+2) Move files from ```ttf``` to ```~/.locals/share/fonts/ttf/FiraCode``` 
