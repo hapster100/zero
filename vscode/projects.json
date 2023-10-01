@@ -1,0 +1,87 @@
+[
+	{
+		"name": "goparse",
+		"rootPath": "/home/aland/auru/aland97/goparse",
+		"tags": ["auru", "aland97"]
+	},
+	{
+		"name": "test-cases",
+		"rootPath": "/home/aland/auru/aland97/test-cases",
+		"tags": ["aland97", "auru"]
+	},
+	{
+		"name": "aureactnativeapp",
+		"rootPath": "/home/aland/auru/mobile/aureactnativeapp",
+		"tags": ["auru", "mobile"]
+	},
+	{
+		"name": "au-direct-banner",
+		"rootPath": "/home/aland/auru/node/au-direct-banner",
+		"tags": ["auru", "node"]
+	},
+	{
+		"name": "aurum-js",
+		"rootPath": "/home/aland/auru/node/aurum-js",
+		"tags": ["auru", "node"]
+    },
+	{
+		"name": "au-services",
+		"rootPath": "/home/aland/auru/node/au-services",
+		"tags": ["node", "auru"]
+	},
+	{
+		"name": "bb-client",
+		"rootPath": "/home/aland/auru/node/bb-client",
+		"tags": ["node", "auru"]
+	},
+	{
+		"name": "corder",
+		"rootPath": "/home/aland/auru/node/corder",
+		"tags": ["node", "auru"]
+	},
+	{
+		"name": "gpt-gui",
+		"rootPath": "/home/aland/auru/node/gpt-gui",
+		"tags": ["node", "auru"]
+	},
+	{
+		"name": "bonus",
+		"rootPath": "/home/aland/auru/services/bonus",
+		"tags": ["services", "auru"]
+	},
+	{
+		"name": "guilds",
+		"rootPath": "/home/aland/auru/services/guilds",
+		"tags": ["services", "auru"]
+	},
+	{
+		"name": "itemmanager",
+		"rootPath": "/home/aland/auru/services/itemmanager",
+		"tags": ["services", "auru"]
+	},
+	{
+		"name": "statistics",
+		"rootPath": "/home/aland/auru/services/statistics",
+		"tags": ["services", "auru"]
+	},
+	{
+		"name": "market-api",
+		"rootPath": "/home/aland/auru/site/market-api",
+		"tags": ["site", "auru"]
+	},
+	{
+		"name": "mobile-api",
+		"rootPath": "/home/aland/auru/site/mobile-api",
+		"tags": ["site", "auru"]
+	},
+	{
+		"name": "zero",
+		"rootPath": "/home/aland/prog/github/zero",
+		"tags": ["my"]
+	},
+	{
+		"name": "profile",
+		"rootPath": "/home/aland/prog/github/profile",
+		"tags": ["my"]
+	}
+]
