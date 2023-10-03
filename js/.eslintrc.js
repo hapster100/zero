@@ -49,7 +49,7 @@ module.exports = {
         'function-call-argument-newline': ['warn', 'consistent'],
         'generator-star-spacing': ['error', { before: false, after: true }],
         'getter-return': 'error',
-        'id-length': ['warn', { exceptions: ['x', 'y', 'z', 'i', 'j', 'k'], max: MAX_ID_LEN, min: MIN_ID_LEN }],
+        'id-length': ['warn', { exceptions: ['x', 'y', 'z', 'i', 'j', 'k', '_'], max: MAX_ID_LEN, min: MIN_ID_LEN }],
         'implicit-arrow-linebreak': 'warn',
         'indent': ['error', INDENT],
         'init-declarations': 'error',
